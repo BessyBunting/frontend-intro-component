@@ -132,6 +132,7 @@ button {
     grid-template-columns: 1fr 1fr;
     align-items: center;
     margin: 0rem 8rem;
+    gap: 4rem;
   }
   h1 {
     font-size: var(--fs-header-main);
